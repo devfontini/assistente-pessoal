@@ -28,5 +28,5 @@ Este é um **Assistente Pessoal Inteligente** desenvolvido em **Python**, capaz 
 ## 📥 **Instalação**
 1️⃣ **Clone o repositório**  
 ```sh
-git clone https://github.com/seu-usuario/assistente-pessoal.git
+git clone https://github.com/devfontini/assistente-pessoal.git
 cd assistente-pessoal
