@@ -1,32 +1,18 @@
-# 🤖 Assistente Pessoal Inteligente
+Assistente Pessoal com Python 
+#
+Fala pessoal, essa é a Julia, uma assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
 
-Este é um **Assistente Pessoal Inteligente** desenvolvido em **Python**, capaz de **ouvir comandos de voz**, **falar respostas**, **realizar pesquisas**, **abrir sites** e **executar tarefas no computador**. 🔥  
-
----
-
-## 🚀 **Recursos**
-✅ **Reconhecimento de voz** para comandos 🎙️  
-✅ **Respostas faladas** usando síntese de voz 🔊  
-✅ **Pesquisa automática na Wikipédia** 📚  
-✅ **Abertura de sites** como Google e YouTube 🌍  
-✅ **Execução de comandos do sistema**, como tocar música 🎵  
-✅ **Interface simples e eficiente** ⚡  
-
----
-
-## 🛠️ **Tecnologias Utilizadas**
-📌 **Linguagem**: Python 3.x  
-📌 **Bibliotecas**:  
-- `speech_recognition` → Reconhecimento de voz  
-- `pyttsx3` → Síntese de voz  
-- `wikipedia` → Pesquisa de informações  
-- `webbrowser` → Abertura de sites  
-- `os` → Execução de comandos do sistema  
-
----
-
-## 📥 **Instalação**
-1️⃣ **Clone o repositório**  
-```sh
-git clone https://github.com/devfontini/assistente-pessoal.git
-cd assistente-pessoal
+Features:
+⌚ Horário atual: "Que horas são?"
+🔎 Pesquisa no Google: "Pesquisar objeto no Google"
+🪙 Cotação de dólar, euro e bitcoin: "Qual a cotação do dólar no momento?"
+📰 Últimas 5 notícias do momento: "Quais as últimas notícias?"
+📽️ 5 filmes mais populares do momento: "Quais os filmes mais populares no momento?"
+🎧 Abrir a melhor música, banda e álbum do mundo no Spotify: "Qual a melhor música do mundo?"
+⛅ Clima/tempo: "Clima em São Paulo"
+🔃 Tradutor para inglês e português: "Traduzir para o inglês"
+📒 Criar e visualizar lembretes: "Criar novo lembrete" ou "Visualizar lembretes"
+💻 Abrir programar na sua máquina: "Abrir Discord"
+💤 Desligar computador em 1 hora ou meia hora: "Desligar computador em uma hora"
+❌ Cancelar desligamento do computador: "Cancelar desligamento"
+🙋🏽‍♀️ Fechar a assistente: "Fechar assistente"
